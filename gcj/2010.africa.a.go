@@ -1,4 +1,5 @@
 /*
+https://code.google.com/codejam/contest/351101/dashboard
 $ go run 2010.africa.a.go < A-large-practice.in
 Case #1: 2 3
 Case #2: 1 4
